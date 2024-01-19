@@ -31,7 +31,7 @@ Me encantaría formar parte de otros proyectos tanto para crecer como **profesio
 
 Aquí tienes mi **[LinkedIn](https://www.linkedin.com/in/ramiroheredia/)**
 
-O puedes contactarme a mi **[Correo electronico](ramiro.heredia@mi.unc.edu.ar)**
+O puedes contactarme a mi **[Correo electronico](mailto:ramiro.heredia@mi.unc.edu.ar)**
 <!--
 **Gugol-Ram/Gugol-Ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
