@@ -6,6 +6,8 @@ Soy programador **FullStack** orientado al Backend, pero por supuesto siendo ful
 
 Siempre fui un interesado del mundo IT aunque anteriormente solo tenía conocimientos en lo relacionado a la computación y el hardware(principalmente) por lo que me pareció una interesante -y desafiante- idea la de sumergirme en el mundo del código para acercarme más al mundo IT y entender mejor el 'detrás' de las cosas.
 
+Actualmente también soy estudiante avanzado de la carrera de Contador Público por lo que creo que sería genial poder conectar ambo mundos
+
 ## ¿Que estoy haciendo?
 
 Actualmente finalizando mi experiencia en **Henry** y apuntando a encontrar mi primer experiencia laboral en el mundo IT. Por supuesto también ampliando mis conocimientos en distintos medios y/o comunidades.
