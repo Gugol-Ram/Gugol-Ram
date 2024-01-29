@@ -55,16 +55,16 @@ What technologies do I use?
 
 Currently, thanks to different courses I have taken, among which I could highlight Henry, Argentina Programa, or SEU-UTN Córdoba, I handle technologies such as:
 
-    JavaScript
-    React
-    Vite
-    HTML
-    CSS
-    Node
-    PostgreSQL
-    Sequelize
-    GIT
-    Ruby
++ ***JavaScript***
++ ***React***
++ ***Vite***
++ ***HTML***
++ ***CSS***
++ ***Node***
++ ***PostgreSQL***
++ ***Sequelize***
++ ***GIT***
++ ***Ruby***
 
 ## Would you like to contact me?
 
