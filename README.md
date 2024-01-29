@@ -35,6 +35,47 @@ Aquí tienes mi ***[LinkedIn](https://www.linkedin.com/in/ramiroheredia/)***
 
 O puedes contactarme a mi **[Correo electronico](mailto:ramiro.heredia@mi.unc.edu.ar)**
 
+### ***Si leíste hasta acá muchas gracias por tu tiempo y espero que tengas un buen día.***
+
+# ***ENGLISH***
+
+Hello! 👋 My name is Ramiro Heredia
+# Who am I?
+
+I am a FullStack programmer focused on Backend, but of course, being fullstack, I can also work both in the Back and the Front.
+
+I have always been interested in the IT world, although previously I only had knowledge in computer science and hardware (mainly). Therefore, I found it an interesting - and challenging - idea to immerse myself in the world of code to get closer to the IT world and better understand the 'behind the scenes' of things.
+
+I am currently also an advanced student in  Certified Public Accountant career, so I think it would be great to connect both worlds.
+
+## What am I doing?
+
+Currently finishing my experience at Henry and aiming to find my first job experience in the IT world. Of course, I am also expanding my knowledge through different media and/or communities.
+What technologies do I use?
+
+Currently, thanks to different courses I have taken, among which I could highlight Henry, Argentina Programa, or SEU-UTN Córdoba, I handle technologies such as:
+
+    JavaScript
+    React
+    Vite
+    HTML
+    CSS
+    Node
+    PostgreSQL
+    Sequelize
+    GIT
+    Ruby
+
+## Would you like to contact me?
+
+I would love to be part of other projects, both to grow as a professional and to contribute to improving the world 🌎 of others.
+
+Here's my ***[LinkedIn](https://www.linkedin.com/in/ramiroheredia/)***
+
+Or you can contact me at my **[Email](mailto:ramiro.heredia@mi.unc.edu.ar)**
+
+### ***If you've read this far, thank you very much for your time, and I hope you have a good day.***
+
 <!--
 **Gugol-Ram/Gugol-Ram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
