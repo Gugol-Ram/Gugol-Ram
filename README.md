@@ -10,7 +10,7 @@ Actualmente también soy estudiante avanzado de la carrera de Contador Público 
 
 ## ¿Que estoy haciendo?
 
-Actualmente finalizando mi experiencia en **Henry** y apuntando a encontrar mi primer experiencia laboral en el mundo IT. Por supuesto también ampliando mis conocimientos en distintos medios y/o comunidades.
+Actualmente he finalizado mi experiencia en **Henry** y estoy apuntando a encontrar mi primer experiencia laboral en el mundo IT. Por supuesto también ampliando mis conocimientos en distintos medios y/o comunidades, entre lo que acutalmente me encuentro es ***PHP*** y ***C#***
 
 ## ¿Que tecnologias utilizo?
 
