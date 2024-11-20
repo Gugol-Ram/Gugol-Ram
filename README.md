@@ -6,15 +6,15 @@ Soy programador **FullStack** orientado al Backend, pero por supuesto siendo ful
 
 Siempre fui un interesado del mundo IT aunque anteriormente solo tenía conocimientos en lo relacionado a la computación y el hardware(principalmente) por lo que me pareció una interesante -y desafiante- idea la de sumergirme en el mundo del código para acercarme más al mundo IT y entender mejor el 'detrás' de las cosas.
 
-Actualmente también soy estudiante avanzado de la carrera de Contador Público por lo que creo que sería genial poder conectar ambo mundos
+Actualmente también soy estudiante avanzado de la carrera de Contador Público por lo que creo que sería genial poder conectar ambo mundos.
 
 ## ¿Que estoy haciendo?
 
-Actualmente he finalizado mi experiencia en **Henry** y estoy apuntando a encontrar mi primer experiencia laboral en el mundo IT. Por supuesto también ampliando mis conocimientos en distintos medios y/o comunidades, entre lo que acutalmente me encuentro es ***PHP*** y ***C#***
+Actualmente me encuentro trabajando para Financiera Cuallix, en el equipo encargado de su billetera virtual Cuallet utilizando lenguajes como ***Dart*** y ***C#***
 
 ## ¿Que tecnologias utilizo?
 
-Actualmente y gracias a diferentes cursos realizados entre los que podria destacar **Henry, Argentina Programa o SEU-UTN Córdoba**, manejo tecnologias como:
+Actualmente y gracias a diferentes estudios realizados entre los que podria destacar **Henry, Argentina Programa o SEU-UTN Córdoba**, manejo tecnologias como:
 
 + ***JavaScript***
 + ***React***
@@ -26,7 +26,10 @@ Actualmente y gracias a diferentes cursos realizados entre los que podria destac
 + ***Sequelize***
 + ***GIT***
 + ***Ruby***
-
++ ***C#***
++ ***Dart***
++ ***.NET***
++ 
 ## ¿Te interesaria contactarme?
 
 Me encantaría formar parte de otros proyectos tanto para crecer como **profesional**, como para hacer mi aporte para **mejorar** el mundo 🌎 de otros.
